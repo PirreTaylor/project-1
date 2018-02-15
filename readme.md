@@ -1,30 +1,6 @@
-# My First README.md
-## **Taylor Pirre**
+# Taylor Pirre- Project 1 Readme
+1. When it comes to Web Browsers, I typically use either Chrome or Firefox. A browser requests connection to a server, the server sends the requested data components of the page back to the browser, and the browser then reads the data that it is sent in order to display the page.
+2. During my time in the Internet Wayback Machine, I decided to explore the web archives regarding a popular phenomenon during the late 90s: Beanie Babies. The toy line's official website had archive entires as early as December 1996, with the initial iteration of the site featuring what can only be described as a seizure of colors. Gif loops of dancing beanie babies decorated the site's sidebar- something that I find simultaneously cute and hilarious. In comparison, the present day version of the site is dramatically different, with its use of color being exponentially reined in while still remaining bright and inviting enough to be accessible to the company's young demographic.
+3. *Because this is my second time taking this course, I was able to rework some of my old code from last semester into the this semester's iteration of Project-1. I did not run into any problems with my work this time, and I had a fun time exploring archaic web pages again with the Internet Wayback Machine portion of this week's lesson module. It was interesting to see how much web design practices have evolved and changed since the internet's inception.*
 
----
-
-*This week's material was very accessible and easy for me to grasp, as not only was the information presented in a very welcoming and succinct manner, but also because this admittedly is my second attempt at taking this course. Additionally, I have had prior experience in learning how to code from a few assignments I have had in other courses that involved designing basic code structures for interactive media. While coding for an interactive product is a bit different from web coding, many of the same basic ideas seem to overlap between the two disciplines. Though my experience with coding has thus far been on a basic level, I am very excited to begin to dive deeper into how web design and code languages function. *
-
-*Some other principles of Web Design that interest me include:*
-
-* *CSS and how it interacts with the HTML code.*
-* *Writing interactive commands using if/else variables and possibly loops to make a webpage feel more animated and dynamic.*
-
----
-
-
-#### To practice linking to external URLs, I decided to link to a couple of drawings from my online gallery:
-
-1. [Drawing 1: Pirate Mermaid](https://pre14.deviantart.net/20ac/th/pre/i/2017/100/9/3/pirate_mermaid_by_missperidot-db5du51.jpg)
-2. [Drawing 2: Flying Fish](https://pre12.deviantart.net/9c37/th/pre/i/2017/100/3/9/getaway_by_missperidot-db5dqbs.jpg)
-
-```markdown
-1. [Drawing 1: Pirate Mermaid](https://pre14.deviantart.net/20ac/th/pre/i/2017/100/9/3/pirate_mermaid_by_missperidot-db5du51.jpg)
-2. [Drawing 2: Flying Fish](https://pre12.deviantart.net/9c37/th/pre/i/2017/100/3/9/getaway_by_missperidot-db5dqbs.jpg)
-```
-
-- ![This is the screenshot I took of my directory!](./images/screenshot-1.png)
-
-This is an additional line of text
-
-This is another additional change to test things.
+![image](./images/workspace.JPG)
